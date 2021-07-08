@@ -22,7 +22,7 @@ NIGHT
 peanut butter vs vitapet chicken tenders
 Tyrell's chip vs ultimates beef
 dentastix vs liver pieces
-papadam vs bowwow oinkers
+papadam vs bread
 nature's gift kangaroo vs ultimates lamb
 
 6th of July
@@ -53,7 +53,7 @@ nature's gift kangaroo vs bowwow beef roo rolls
 vitapet fish tenders vs vitapet bacon strips
 
 NIGHT
-greenies vs bowwow oinkers
+greenies vs bread
 dentalife vs vip chuckers
 yoghurt vs vitapet chicken tenders
 Tyrell's chip vs vip chuckers
@@ -64,16 +64,16 @@ dentastix vs vitapet fish tenders
 
 MORNING
 peanut butter vs ultimates lamb
-vitapet fish tenders vs bowwow oinkers
-vitapet bacon strips vs bowwow oinkers
+vitapet fish tenders vs bread
+vitapet bacon strips vs bread
 yoghurt vs ultimates lamb
 cheese vs ultimates chicken
 
 NIGHT
 peanut butter vs nature's gift kangaroo
 Tyrell's chip vs dentastix
-vitapet chicken tenders vs bowwow oinkers
-nature's gift kangaroo vs bowwow oinkers
+vitapet chicken tenders vs bread
+nature's gift kangaroo vs bread
 scrambled egg vs Tyrell's chip
 
 9th of July
@@ -83,7 +83,7 @@ MORNING
 peanut butter vs bowwow beef roo rolls
 cheese vs vip chuckers
 ultimates beef vs liver pieces
-cheese vs bowwow oinkers
+cheese vs bread
 scrambled egg vs vip chuckers
 
 NIGHT
@@ -148,8 +148,8 @@ cheese vs papadam
 ============
 
 MORNING
-scrambled egg vs bowwow oinkers
-bowwow oinkers vs liver pieces
+scrambled egg vs bread
+bread vs liver pieces
 dentalife vs bowwow beef roo rolls
 papadam vs vitapet bacon strips
 ultimates chicken vs vitapet bacon strips
@@ -166,7 +166,7 @@ dentalife vs vitapet fish tenders
 
 MORNING
 vitapet fish tenders vs bowwow beef roo rolls
-yoghurt vs bowwow oinkers
+yoghurt vs bread
 nature's gift kangaroo vs vitapet chicken tenders
 yoghurt vs nature's gift kangaroo
 ultimates chicken vs bowwow beef roo rolls
