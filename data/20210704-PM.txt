@@ -1,4 +1,4 @@
-L: ult chicken (21g) [winner]
+L: ultimates chicken (21g) [winner]
 R: papadam (3g)
 
 L: cheese (6g) [winner]
@@ -8,7 +8,7 @@ L: peanut butter (12g)
 R: greenies (32g) [winner]
 
 L: fish tender (12g)
-R: ult chicken (22g) [winner]
+R: ultimates chicken (22g) [winner]
 
 L: dentastix (21g) [winner]
-R: ult lamb (19g)
+R: ultimates lamb (19g)

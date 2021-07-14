@@ -5,7 +5,7 @@ L: chunkers (24g)
 R: cheese (6g) [winner]
 
 L: liver piece (4g) [winner]
-R: ultimate beef (20g)
+R: ultimates beef (20g)
 
 L: cheese (7g)
 R: bread (5g) [winner]

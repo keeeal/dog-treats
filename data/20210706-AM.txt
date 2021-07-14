@@ -1,10 +1,10 @@
-L: ult lamb (14g) [winner]
+L: ultimates lamb (14g) [winner]
 R: fish tender (12g)
 
-L: vip chuckers (18g) [winner]
-R: ult lamb (19g)
+L: chunkers (18g) [winner]
+R: ultimates lamb (19g)
 
-L: ult beef (16g) [winner]
+L: ultimates beef (16g) [winner]
 R: papadam (3g)
 
 L: scrambled egg (14g)

@@ -1,8 +1,8 @@
 L: peanut butter (13g)
 R: chicken tender (19g) [winner]
 
-L: ult beef (17g) [winner]
-R: tyrells chip (6g)
+L: ultimates beef (17g) [winner]
+R: tyrell's chip (6g)
 
 L: liver piece (5g)
 R: dentastix (20g) [winner]
@@ -10,5 +10,5 @@ R: dentastix (20g) [winner]
 L: papadam (2g)
 R: bread (7g) [winner]
 
-L: ult lamb (23g) [winner]
-R: natures gift roo (30g)
+L: ultimates lamb (23g) [winner]
+R: nature's gift (30g)
