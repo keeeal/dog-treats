@@ -1,14 +1,14 @@
-L: 
-R: 
+L: peanut butter (14g)
+R: nature's gift (31g) [winner]
 
-L: 
-R: 
+L: dentastix (24g) [winner]
+R: tyrells chip (6g)
 
-L: 
-R: 
+L: chicken tender (20g)
+R: bread (2g) [winner]
 
-L: 
-R: 
+L: nature's gift (24g) [winner]
+R: bread (3g)
 
-L: 
-R: 
+L: tyrells chip (6g) [winner]
+R: scrambled egg (46g)

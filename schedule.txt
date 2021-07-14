@@ -3,42 +3,42 @@
 
 NIGHT
 papadam vs ultimates chicken
-cheese vs liver pieces
+cheese vs liver piece
 peanut butter vs greenies
-ultimates chicken vs vitapet fish tenders
+ultimates chicken vs fish tender
 dentastix vs ultimates lamb
 
 5th of July
 ===========
 
 MORNING
-scrambled egg vs bowwow beef roo rolls
-papadam vs bowwow beef roo rolls
-Tyrell's chip vs greenies
+scrambled egg vs roo roll
+papadam vs roo roll
+tyrell's chip vs greenies
 dentastix vs ultimates chicken
 cheese vs ultimates beef
 
 NIGHT
-peanut butter vs vitapet chicken tenders
-Tyrell's chip vs ultimates beef
-dentastix vs liver pieces
+peanut butter vs chicken tender
+tyrell's chip vs ultimates beef
+dentastix vs liver piece
 papadam vs bread
-nature's gift kangaroo vs ultimates lamb
+nature's gift vs ultimates lamb
 
 6th of July
 ===========
 
 MORNING
-ultimates lamb vs vitapet fish tenders
-ultimates lamb vs vip chuckers
+ultimates lamb vs fish tender
+ultimates lamb vs chunkers
 papadam vs ultimates beef
 peanut butter vs scrambled egg
 cheese vs peanut butter
 
 NIGHT
-dentastix vs bowwow beef roo rolls
-ultimates lamb vs vitapet bacon strips
-Tyrell's chip vs liver pieces
+dentastix vs roo roll
+ultimates lamb vs bacon strip
+tyrell's chip vs liver piece
 yoghurt vs greenies
 ultimates chicken vs greenies
 
@@ -46,67 +46,67 @@ ultimates chicken vs greenies
 ===========
 
 MORNING
-peanut butter vs Tyrell's chip
+peanut butter vs tyrell's chip
 scrambled egg vs dentastix
-papadam vs liver pieces
-nature's gift kangaroo vs bowwow beef roo rolls
-vitapet fish tenders vs vitapet bacon strips
+papadam vs liver piece
+nature's gift vs roo roll
+fish tender vs bacon strip
 
 NIGHT
 greenies vs bread
-dentalife vs vip chuckers
-yoghurt vs vitapet chicken tenders
-Tyrell's chip vs vip chuckers
-dentastix vs vitapet fish tenders
+dentalife vs chunkers
+yoghurt vs chicken tender
+tyrell's chip vs chunkers
+dentastix vs fish tender
 
 8th of July
 ===========
 
 MORNING
 peanut butter vs ultimates lamb
-vitapet fish tenders vs bread
-vitapet bacon strips vs bread
+fish tender vs bread
+bacon strip vs bread
 yoghurt vs ultimates lamb
 cheese vs ultimates chicken
 
 NIGHT
-peanut butter vs nature's gift kangaroo
-Tyrell's chip vs dentastix
-vitapet chicken tenders vs bread
-nature's gift kangaroo vs bread
-scrambled egg vs Tyrell's chip
+peanut butter vs nature's gift
+tyrell's chip vs dentastix
+chicken tender vs bread
+nature's gift vs bread
+scrambled egg vs tyrell's chip
 
 9th of July
 ===========
 
 MORNING
-peanut butter vs bowwow beef roo rolls
-cheese vs vip chuckers
-ultimates beef vs liver pieces
+peanut butter vs roo roll
+cheese vs chunkers
+ultimates beef vs liver piece
 cheese vs bread
-scrambled egg vs vip chuckers
+scrambled egg vs chunkers
 
 NIGHT
 ultimates beef vs greenies
-ultimates beef vs vitapet bacon strips
+ultimates beef vs bacon strip
 ultimates lamb vs ultimates beef
-Tyrell's chip vs vitapet fish tenders
-dentalife vs vitapet chicken tenders
+tyrell's chip vs fish tender
+dentalife vs chicken tender
 
 10th of July
 ============
 
 MORNING
-scrambled egg vs vitapet bacon strips
-dentastix vs vitapet bacon strips
-ultimates beef vs vip chuckers
+scrambled egg vs bacon strip
+dentastix vs bacon strip
+ultimates beef vs chunkers
 peanut butter vs papadam
 yoghurt vs dentalife
 
 NIGHT
-yoghurt vs Tyrell's chip
-Tyrell's chip vs dentalife
-dentastix vs vitapet chicken tenders
+yoghurt vs tyrell's chip
+tyrell's chip vs dentalife
+dentastix vs chicken tender
 papadam vs greenies
 scrambled egg vs ultimates lamb
 
@@ -114,34 +114,34 @@ scrambled egg vs ultimates lamb
 ============
 
 MORNING
-nature's gift kangaroo vs dentalife
-nature's gift kangaroo vs liver pieces
+nature's gift vs dentalife
+nature's gift vs liver piece
 scrambled egg vs ultimates chicken
-peanut butter vs vitapet fish tenders
+peanut butter vs fish tender
 scrambled egg vs ultimates beef
 
 NIGHT
 ultimates chicken vs ultimates lamb
-cheese vs bowwow beef roo rolls
-greenies vs vip chuckers
-yoghurt vs vitapet fish tenders
-vitapet chicken tenders vs vitapet bacon strips
+cheese vs roo roll
+greenies vs chunkers
+yoghurt vs fish tender
+chicken tender vs bacon strip
 
 12th of July
 ============
 
 MORNING
 dentalife vs ultimates beef
-vip chuckers vs liver pieces
+chunkers vs liver piece
 dentastix vs greenies
-ultimates chicken vs vitapet chicken tenders
-yoghurt vs vip chuckers
+ultimates chicken vs chicken tender
+yoghurt vs chunkers
 
 NIGHT
 dentalife vs greenies
-dentalife vs liver pieces
-vitapet chicken tenders vs bowwow beef roo rolls
-vitapet bacon strips vs vip chuckers
+dentalife vs liver piece
+chicken tender vs roo roll
+bacon strip vs chunkers
 cheese vs papadam
 
 13th of July
@@ -149,24 +149,24 @@ cheese vs papadam
 
 MORNING
 scrambled egg vs bread
-bread vs liver pieces
-dentalife vs bowwow beef roo rolls
-papadam vs vitapet bacon strips
-ultimates chicken vs vitapet bacon strips
+cheese vs nature's gift
+dentalife vs roo roll
+papadam vs bacon strip
+ultimates chicken vs bacon strip
 
 NIGHT
-cheese vs nature's gift kangaroo
-papadam vs nature's gift kangaroo
-vitapet chicken tenders vs liver pieces
+bread vs liver piece
+papadam vs nature's gift
+chicken tender vs liver piece
 cheese vs yoghurt
-dentalife vs vitapet fish tenders
+dentalife vs fish tender
 
 14th of July
 ============
 
 MORNING
-vitapet fish tenders vs bowwow beef roo rolls
+fish tender vs roo roll
 yoghurt vs bread
-nature's gift kangaroo vs vitapet chicken tenders
-yoghurt vs nature's gift kangaroo
-ultimates chicken vs bowwow beef roo rolls
+nature's gift vs chicken tender
+yoghurt vs nature's gift
+ultimates chicken vs roo roll

@@ -1,0 +1,14 @@
+L: dentalife (21g)
+R: greenies (28g) [winner]
+
+L: liver piece (5g)
+R: dentalife (21g) [winner]
+
+L: chicken tender (21g)
+R: roo roll (21g) [winner]
+
+L: chunkers (18g) [winner]
+R: bacon strip (12g)
+
+L: cheese (13g) [winner]
+R: papadam (1g)
