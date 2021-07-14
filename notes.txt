@@ -1,6 +1,0 @@
-# DESIGN
- - 2m, 2m, 1m triangle
- - Randomly generated schedule
- - Flip coin for left right
- - Ramekin for every treat
- - 5 pairings, twice a day for 10 days = 100 pairs
