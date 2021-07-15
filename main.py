@@ -85,7 +85,7 @@ def main():
 
     # print_left_right_bias(pairs)
 
-    # print_ranking(pairs)
+    print_ranking(pairs)
 
     plot_correlation(data)
 
@@ -94,8 +94,8 @@ def main():
     for x in 'CHICKEN', 'HUMANFOOD':
         plot_violin(data, x, 'WINS')
 
-    for x in 'HARDNESS', 'PROTEIN', 'FAT', 'PRICE':
-        plot_scatter(data, x, 'WINS')
+    # for x in 'HARDNESS', 'PROTEIN', 'FAT', 'PRICE':
+    #     plot_scatter(data, x, 'WINS')
 
 
 
