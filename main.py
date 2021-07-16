@@ -87,7 +87,7 @@ def plot_correlation(data):
     plot.set(xlabel='', ylabel='')
     plt.xticks(rotation=90)
     plt.tight_layout(pad=7)
-    plt.savefig('correlation.png')
+    plt.savefig('correlation.svg')
     plt.close()
 
 def plot_causation(data):
@@ -106,7 +106,7 @@ def plot_violin(data, x, y):
 
     sns.despine(left=True)
     plot.set(xlabel='')
-    plt.savefig(f'{x}_{y}.png')
+    plt.savefig(f'{x}_{y}.svg')
     plt.close()
 
 def plot_linear(data, x, y):
@@ -114,7 +114,7 @@ def plot_linear(data, x, y):
         x=x, y=y, data=data, palette="muted",
         scatter_kws={"s": 50, "alpha": 1}
     )
-    plt.savefig(f'{x}_{y}.png')
+    plt.savefig(f'{x}_{y}.svg')
     plt.close()
 
 def main():
@@ -129,17 +129,36 @@ def main():
 
     # print_left_right_bias(pairs)
 
-    # print_ranking(pairs)
+    print_ranking(pairs)
 
     plot_correlation(treats)
 
     # plot_causation(treats)
 
-    # for x in 'CHICKEN', 'HUMANFOOD':
-    #     plot_violin(treats, x, 'WINS')
+    for x in 'CHICKEN', 'HUMAN_FOOD':
+        plot_violin(treats, x, 'WINS')
 
     for x in 'HARDNESS', 'PROTEIN', 'FAT', 'PRICE_ITEM', 'WEIGHT':
         plot_linear(treats, x, 'WINS')
+
+    # from random import choices
+    # items = [i for p in pairs for i in p]
+    # names = [i.name for i in items]
+    # data = [{i.name for i in p} for p in pairs]
+    # while True:
+    #     a, b, c = choices(list(set(names)), k=3)
+
+    #     if {a,b} not in data:
+    #         continue
+    #     if {b,c} not in data:
+    #         continue
+    #     if {c,a} not in data:
+    #         continue
+
+    #     print()
+    #     for i in {a, b}, {b, c}, {c, a}:
+    #         p = pairs[data.index(i)]
+    #         print(f'{p[0].name} -> {p[1].name}' if p[0].winner else f'{p[1].name} -> {p[0].name}')
 
 if __name__ == '__main__':
     main()
